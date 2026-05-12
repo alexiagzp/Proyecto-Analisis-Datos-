@@ -1,11 +1,20 @@
-## Dashboard Power BI
+# Dashboard de Ventas en Power BI
 
-El dashboard fue desarrollado en Power BI utilizando la base de datos Northwind. Incluye diferentes visualizaciones interactivas que permiten analizar el comportamiento de ventas, órdenes y categorías de productos.
+Este proyecto consiste en el desarrollo de un dashboard interactivo en Power BI utilizando la base de datos Northwind. El objetivo es analizar información comercial mediante indicadores KPI y visualizaciones dinámicas que faciliten la interpretación de datos.
 
-### Elementos incluidos:
+El dashboard incluye análisis de ventas, órdenes, categorías de productos y distribución geográfica de clientes mediante mapas y gráficas interactivas.
+
+## Herramientas utilizadas
+- Power BI
+- Base de datos Northwind
+
+## Elementos del dashboard
 - KPIs de ventas y órdenes
 - Ventas por país
 - Ventas por categoría
-- Mapa interactivo
 - Gráficas de tendencias
+- Mapas interactivos
 - Indicadores visuales
+
+## Objetivo
+Aplicar técnicas básicas de visualización de datos para representar información comercial de manera clara, organizada y comprensible.
